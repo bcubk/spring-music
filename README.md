@@ -53,3 +53,7 @@ java {
 ~~~
 
 Set `targetCompatibility` to `JavaVersion.VERSION_11` for Java 11 or `JavaVersion.VERSION_17` for Java 17.
+
+## Exercise 
+
+You can find the description to the exercise [here](docs/exercise.md)
